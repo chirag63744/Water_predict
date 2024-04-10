@@ -1,0 +1,5 @@
+requests
+numpy
+Pillow
+scikit-learn==1.2.2
+flask>=2.0.0
